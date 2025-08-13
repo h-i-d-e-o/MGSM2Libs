@@ -11,9 +11,10 @@
 - Ray’z Arcade Chronology
 - Darius Cozmic Collection Arcade
 - G-Darius HD
+- Operation Night Strikers (codec: `zstandard`)
 
 `Illegal function call`
-- Castlevania Dominus Collection
+- Castlevania Dominus Collection (key cycle: `92`)
 
 `7zq&RPy/lp/XMs^`
 - Gradius Origins
