@@ -2,7 +2,11 @@
 
 ## alldata.psb seeds
 
-`25G/xpvTbsb+6`
+Default codec: `zlib`
+
+Default key cycle: `64`
+
+`25G/xpvTbsb+6`:
 - Metal Gear Solid
 - Metal Gear / Snake's Revenge (Vol.1 Bonus Content)
 - Contra Anniversary Collection
@@ -13,8 +17,8 @@
 - G-Darius HD
 - Operation Night Strikers (codec: `zstandard`)
 
-`Illegal function call`
+`Illegal function call`:
 - Castlevania Dominus Collection (key cycle: `92`)
 
-`7zq&RPy/lp/XMs^`
+`7zq&RPy/lp/XMs^`:
 - Gradius Origins
