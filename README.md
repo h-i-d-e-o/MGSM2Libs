@@ -22,3 +22,6 @@ Default key cycle: `64`
 
 `7zq&RPy/lp/XMs^`:
 - Gradius Origins
+
+`+6ZU4rBUftNHH`:
+- Namco Museum Archives
