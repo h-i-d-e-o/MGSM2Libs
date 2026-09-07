@@ -9,6 +9,7 @@ Default key cycle: `64`
 `25G/xpvTbsb+6`:
 - Metal Gear Solid
 - Metal Gear / Snake's Revenge (Vol.1 Bonus Content)
+- Metal Gear Solid: Ghost Babel (Vol.2 Bonus Content)
 - Contra Anniversary Collection
 - Castlevania Anniversary Collection
 - Castlevania Advance Collection
